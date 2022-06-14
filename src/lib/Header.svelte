@@ -9,13 +9,13 @@
         <a href="/">about me</a>
     </li>
     <li class:selected="{current === '/contact'}">
-        <a href="/contact">contact</a>
+        <a href="/">contact</a>
     </li>
     <li class:selected="{current === '/updates'}">
-        <a href="/updates">updates</a>
+        <a href="/">updates</a>
     </li>
     <li class:selected="{current === '/blog'}">
-        <a href="/blog">blog</a>
+        <a href="/">blog</a>
     </li>
 </ul>
 </nav>
